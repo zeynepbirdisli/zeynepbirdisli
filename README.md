@@ -11,11 +11,31 @@
 ## 💻 About Me
 
 - 🎓 Electrical and Electronics Engineering student at Gazi University, graduating in 2027.
-- 📡 Worked as an **RF Algorithms and Software Intern at ROKETSAN**, developing a 16 GHz FMCW radar simulator and applying 2D OS-CFAR.
-- 🔧 Currently working as a **Researcher / Systems Engineer** on a TÜBİTAK 2209-A research project.
-- ⚙️ Hands-on experience in **embedded systems, communications, and real-time control** through internships and engineering projects.
-- 🧩 Experienced with **STM32, ESP32, C/C++, SystemVerilog, FreeRTOS, CAN, UART, and SPI**.
+- 📡 **RF Algorithms and Software Intern at ROKETSAN**.
+- 🔧 **Researcher / Systems Engineer** on a TÜBİTAK 2209-A project.
+- 🚗 **Software Team Lead & Embedded Systems Engineer** at TEKNOFEST Zephyr Elektromobil.
+- 🧩 Working with **C, C++, SystemVerilog, STM32, ESP32, and FreeRTOS**.
 - 🌍 English proficiency: **C1 (YDS 88.75/100)**.
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+`C` · `C++` · `SystemVerilog` · `Assembly` · `Python` · `MATLAB`
+
+### Embedded Systems
+
+`STM32` · `ESP32` · `Texas Instruments Tiva C` · `Nexys 4 DDR` · `Xilinx Zynq-7030` · `Raspberry Pi`
+
+### Communications
+
+`UART` · `CAN` · `ESP-NOW` · `TCP/IP Fundamentals` · `Wireshark` · `Cisco Packet Tracer`
+
+### Tools
+
+`STM32CubeIDE` · `STM32CubeMX` · `ESP-IDF` · `Vivado` · `Keil` · `VS Code`  
+`PyCharm` · `Arduino IDE` · `Simulink` · `Altium Designer` · `LTspice`  
+`PLECS` · `Proteus` · `Logic Analyzer`
 
 ## 💼 Experience
 
@@ -44,26 +64,6 @@
 - Led task planning, Git version control, code reviews, and documentation for a 4-person team using Jira.
 - Developed 6-step commutation-based control and protection software for a 3-phase Hall sensor BLDC motor.
 - Designed control, communication, and hardware-software integration for vehicle embedded systems.
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-`C` · `C++` · `SystemVerilog` · `Assembly` · `Python` · `MATLAB`
-
-### Embedded Systems
-
-`STM32` · `ESP32` · `Texas Instruments Tiva C` · `Nexys 4 DDR` · `Xilinx Zynq-7030` · `Raspberry Pi`
-
-### Communications
-
-`UART` · `CAN` · `ESP-NOW` · `TCP/IP Fundamentals` · `Wireshark` · `Cisco Packet Tracer`
-
-### Tools
-
-`STM32CubeIDE` · `STM32CubeMX` · `ESP-IDF` · `Vivado` · `Keil` · `VS Code`  
-`PyCharm` · `Arduino IDE` · `Simulink` · `Altium Designer` · `LTspice`  
-`PLECS` · `Proteus` · `Logic Analyzer`
 
 ## 🚀 Featured Projects
 
