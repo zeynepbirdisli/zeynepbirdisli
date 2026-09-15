@@ -8,12 +8,14 @@
 
 <hr>
 
-## About Me
+## 💻 About Me
 
-- 🎓 Electrical and Electronics Engineering student at Gazi University
-- 📡 Experience in RF algorithms and software, embedded systems, and communications
-- 🔧 Currently working as a Researcher / Systems Engineer on a TÜBİTAK 2209-A project
-- 🌍 English: C1 (YDS 88.75/100)
+- 🎓 Electrical and Electronics Engineering student at Gazi University, graduating in 2027.
+- 📡 Worked as an **RF Algorithms and Software Intern at ROKETSAN**, developing a 16 GHz FMCW radar simulator and applying 2D OS-CFAR.
+- 🔧 Currently working as a **Researcher / Systems Engineer** on a TÜBİTAK 2209-A research project.
+- ⚙️ Hands-on experience in **embedded systems, communications, and real-time control** through internships and engineering projects.
+- 🧩 Experienced with **STM32, ESP32, C/C++, SystemVerilog, FreeRTOS, CAN, UART, and SPI**.
+- 🌍 English proficiency: **C1 (YDS 88.75/100)**.
 
 ## 💼 Experience
 
@@ -90,7 +92,6 @@
 
 - [LinkedIn](https://linkedin.com/in/zeynepbirdisli)
 - [Email](mailto:birdislizeynep@gmail.com)
-- [GitHub](https://github.com/zeynepbirdisli)
 
 ---
 
