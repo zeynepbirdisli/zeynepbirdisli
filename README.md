@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Zeynep 👋</h1>
 
 <p align="center">
-  Electrical and Electronics Engineering student at Gazi University
+  <i>An aspiring engineer with a background in <b>embedded systems, communications, and digital design.</b></i>
   <br>
-  <b>Embedded Systems · Communications · Digital Design</b>
+  🎓 Electrical and Electronics Engineering student at <b>Gazi University</b>
 </p>
 
 <hr>
@@ -11,14 +11,9 @@
 ## About Me
 
 - 🎓 Electrical and Electronics Engineering student at Gazi University
-- 💻 Focused on Embedded Systems, Communications, and Digital Design
 - 📡 Experience in RF algorithms and software, embedded systems, and communications
 - 🔧 Currently working as a Researcher / Systems Engineer on a TÜBİTAK 2209-A project
 - 🌍 English: C1 (YDS 88.75/100)
-
-## Areas of Interest
-
-**Embedded Systems · Communications · Digital Design**
 
 ## 💼 Experience
 
@@ -96,3 +91,11 @@
 - [LinkedIn](https://linkedin.com/in/zeynepbirdisli)
 - [Email](mailto:birdislizeynep@gmail.com)
 - [GitHub](https://github.com/zeynepbirdisli)
+
+---
+
+<p align="center">
+  <i>"Coming up with solutions and new ideas was an adventure."</i>
+  <br>
+  — Margaret Hamilton
+</p>
